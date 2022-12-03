@@ -5,3 +5,5 @@ echo "Building Package $package"
 if [[ $RUN_TEST == 'true' ]]; then
  echo "running test"
 fi
+
+echo "Now in testing branch"
